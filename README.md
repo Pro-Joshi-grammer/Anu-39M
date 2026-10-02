@@ -2,6 +2,17 @@
 
 A 39.66M-parameter decoder-only Transformer language model trained from scratch under the 50M parameter limit.
 
+## Images
+
+<img width="925" height="623" alt="image" src="https://github.com/user-attachments/assets/a80805e6-bd35-4343-ba9c-6dedc153baad" />
+Anu-39M Model Architecture
+
+
+
+<img width="981" height="1013" alt="image" src="https://github.com/user-attachments/assets/8083a19a-fbfd-4734-9d02-0e66b7099950" />
+Image Showing Model Training on Nvidia T4 ssh through Terminal
+
+
 ## Model
 
 |                |                                                              |
