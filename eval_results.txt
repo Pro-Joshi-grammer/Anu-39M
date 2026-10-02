@@ -1,0 +1,3 @@
+WikiText-103 test perplexity: 38.608
+
+For HellaSwag / ARC-Easy / PIQA / WinoGrande, run lm-evaluation-harness separately (see run_lm_eval_harness.sh) -- it needs a HF-compatible model wrapper (hf_wrapper.py) rather than the raw torch checkpoint.

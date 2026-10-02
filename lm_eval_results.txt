@@ -1,0 +1,4 @@
+arc_easy: {'alias': 'arc_easy', 'acc,none': 0.3324915824915825, 'acc_stderr,none': 0.009666892606130127, 'acc_norm,none': 0.32112794612794615, 'acc_norm_stderr,none': 0.009580787536986797}
+hellaswag: {'alias': 'hellaswag', 'acc,none': 0.26777534355706034, 'acc_stderr,none': 0.004418948941099382, 'acc_norm,none': 0.27076279625572597, 'acc_norm_stderr,none': 0.004434456717097627}
+piqa: {'alias': 'piqa', 'acc,none': 0.5614798694232862, 'acc_stderr,none': 0.011577299923544565, 'acc_norm,none': 0.5402611534276387, 'acc_norm_stderr,none': 0.011627942981817171}
+winogrande: {'alias': 'winogrande', 'acc,none': 0.4988161010260458, 'acc_stderr,none': 0.014052446290529019}

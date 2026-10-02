@@ -1,0 +1,2 @@
+Config: GPTConfig(vocab_size=16000, d_model=512, n_layer=10, n_head=8, d_ff=2048, max_seq_len=512, dropout=0.0, bias=False)
+Total trainable params (incl. embeddings + output head): 39,660,032

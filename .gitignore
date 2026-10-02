@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.tar.gz
+*.pem
+ckpt.pt
+ckpt_final.pt
+ckpt_51p12.pt
+train.bin
+val.bin
